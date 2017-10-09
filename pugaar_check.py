@@ -1,19 +1,11 @@
 from sklearn.externals import joblib
 nb2 = joblib.load('spam_data_pugaar.pkl')
 
-def check(description):
-    
-    try:
-
-        value = nb2.predict([description])
-
-        if value[0] == 1:
-            return True
-        elif value[0] == 0:
+def check(description = None):
+    if description is not None:
+        try:
+            return bool(nb2.predict([description]))
+        except Exception :
             return False
-        else:
-            return 'error occured.'
-    
-    except Exception as e:
-
-        return False
+    else:
+        return True

@@ -4,13 +4,15 @@ Spam Filter which removes spam, i.e., selectively passes complaints dedicated fo
 
 ## Usage :
 
-  ```python3
-    >>> from pugaar_check import check
-    >>> check('broken door knob')
-    True
-    >>> check('send me nudes')
-    False
-  ```
+```python3
+>>> from pugaar_check import check
+>>> check('broken door knob.')
+True
+>>> check('send me nudes xD')
+False
+>>> check(None)
+True
+```
 
 ## Tested and developed on :
 
