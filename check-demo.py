@@ -1,3 +1,5 @@
+# a validation set for testing out the multinomial naive Bayes model.
+
 from sklearn.externals import joblib
 nb2 = joblib.load('spam_data_pugaar.pkl')
 test = ["pls dont call me anymore", 
