@@ -55,10 +55,15 @@ Testing accuracy of Naive Bayes model is `99.436 %` on 25% of the actual data. T
  * Complaint and Spam intersection talks about the `False negatives` - 2, (The complaints which got classified as spam)
  * Complaint and Complaint intersection talks about the `True Positives` - 163.
 
+### For prototyping
+
+The model was dumped into a [pickle](https://docs.python.org/3/library/pickle.html) file using [joblib](https://pypi.python.org/pypi/joblib) to [spam_data_pugaar.pkl](https://github.com/greed2411/ASF/blob/master/spam_data_pugaar.pkl) and [Pipeline](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) class.
+
 ## Necessary libraries :
 
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - For reading the data and manipulation.
 * [scikit-learn](http://scikit-learn.org/stable/) - For preprocessing, feature engineering and run [MultinomialNB](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)
+* [joblib](https://pypi.python.org/pypi/joblib) - For reading and storing the model as numpy records, much faster than ordinary pickling.
 
 ## You can try it by:
 
