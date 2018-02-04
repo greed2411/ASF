@@ -1,5 +1,12 @@
 # Anti Spam Filter
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/greed2411/ASF/commits/master)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/greed2411)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub issues](https://img.shields.io/github/issues/greed2411/ASF.svg)](https://github.com/greed2411/ASF/issues)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/greed2411/badges)
+
 ## What is ASF?
 
 A Spam Filter built for Pugaar.
