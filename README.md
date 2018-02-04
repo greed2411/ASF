@@ -13,7 +13,7 @@ A Spam Filter built for Pugaar.
 
 ## What is Pugaar?
 
-*Pugaar*, is an Android and Web application dedicated for lodging complaints and pettty issues related to the maintenance of [VIT University, Vellore Men's Hostel](https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology).
+*Pugaar*, is an Android and Web application dedicated for lodging complaints and petty issues related to the maintenance of [VIT University, Vellore Men's Hostel](https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology).
 Our goal is to eradicate all the handwritten complaints which takes days to process, by automating the whole process. Once a complaint is into the system, an employee is directly informed using SMS regarding the issue and the details of the one who made the complaint.
 
 ## Presenting Team members:
