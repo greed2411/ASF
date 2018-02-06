@@ -11,6 +11,12 @@
 
 A Spam Filter built for Pugaar.
 
+## Demo
+
+![GIF](https://github.com/greed2411/ASF/blob/master/spamOriginal.gif)
+
+Note: The gif is huge, so it looks slow. Actually it isn't that lagging.
+
 ## What is Pugaar?
 
 *Pugaar*, is an Android and Web application dedicated for lodging complaints and petty issues related to the maintenance of [VIT University, Vellore Men's Hostel](https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology).
@@ -99,6 +105,7 @@ False
 >>> check(None)
 True
 ```
+
 
 ## Tested and developed on :
 
