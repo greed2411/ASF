@@ -15,7 +15,6 @@ A Spam Filter built for Pugaar.
 
 ![GIF](https://github.com/greed2411/ASF/blob/master/spamOriginal.gif)
 
-Note: The gif is huge, so it looks slow. Actually it isn't that lagging.
 
 ## What is Pugaar?
 
