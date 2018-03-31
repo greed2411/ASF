@@ -75,7 +75,7 @@ The model was dumped into a [pickle](https://docs.python.org/3/library/pickle.ht
 
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - For reading the data and manipulation.
 * [scikit-learn](http://scikit-learn.org/stable/) - For preprocessing, feature engineering and run [MultinomialNB](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)
-* [joblib](https://pypi.python.org/pypi/joblib) - For reading and storing the model as numpy records, much faster than ordinary pickling.
+
 
 ## You can try it by:
 
