@@ -9,7 +9,7 @@
 
 ## What is ASF?
 
-A Spam Filter built for Pugaar.
+A Spam Filter built for [VIT-Pugaar](https://github.com/bhaveshpraveen/VIT-Pugaar).
 
 ## Demo
 
